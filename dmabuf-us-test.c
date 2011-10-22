@@ -16,7 +16,7 @@
  */
 
 /*
- * arm-linux-gnueabi-gcc drivers/base/test.c -o drivers/base/test -Wall
+ * arm-linux-gnueabi-gcc dmabuf-us-test.c -o dmabuf-us-test -Wall
  *
  * before run the test don't forget to mount debugfs
  * mount -t debugfs none /sys/kernel/debug
